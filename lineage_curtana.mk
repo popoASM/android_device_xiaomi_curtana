@@ -28,13 +28,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := curtana
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := lineage_curtana
-PRODUCT_MODEL := Redmi Note 9s
+PRODUCT_MODEL := Redmi Note 9S
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR_PRODUCT_NAME := curtana
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="curtana-user 10 QKQ1.191215.002 V11.0.9.0.QJWMIXM release-keys"
-
-BUILD_FINGERPRINT := Redmi/curtana_global/curtana:10/QKQ1.191215.002/V11.0.9.0.QJWMIXM:user/release-keys
